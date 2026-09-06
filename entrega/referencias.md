@@ -1,12 +1,12 @@
-# 📚 Referencias Bibliográficas del Taller
+# Referencias Bibliográficas del Taller
 
-## 🔖 Taller
+## Taller
 
 **Taller 3 - Arquitectura Actual del Sistema con el Modelo C4**
 
 Este archivo contiene las fuentes consultadas para el componente técnico, la notación ArchiMate equivalente y la investigación complementaria.
 
-## 📚 Referencias utilizadas
+## Referencias utilizadas
 
 1. Brown, Simon. **The C4 model for visualising software architecture**. C4 Model.  
    https://c4model.com/  
