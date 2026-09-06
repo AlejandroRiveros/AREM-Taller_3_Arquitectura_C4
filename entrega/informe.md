@@ -1,21 +1,18 @@
-# 📄 Informe Técnico del Taller
-
-## 🔖 Nombre del Taller
+# Informe Técnico del Taller
 
 **Taller 3 - Arquitectura Actual del Sistema con el Modelo C4**
 
-## 👥 Integrantes del equipo
+## Integrantes del equipo
 
 - Juan Pablo Luna Zuleta
 - Alejandro Riveros
 - Martín Ortega
-
-**Equipo:** Adictos al Azúcar  
+ 
 **Cliente:** Jefatura de Cultura de Innovación y Servicio — Dirección de Desarrollo Estratégico, Universidad de La Sabana
 
 ---
 
-## 🧠 Descripción general del trabajo
+## Descripción general del trabajo
 
 El objetivo del taller es representar la arquitectura actual (**AS-IS**) que soporta la gestión del directorio de extensiones telefónicas de la Universidad de La Sabana mediante las vistas C1 (Contexto) y C2 (Contenedores) del modelo C4.
 
@@ -25,7 +22,7 @@ El modelo se construyó a partir de la información ya levantada en la Ficha de 
 
 ---
 
-## 🔧 Proceso de desarrollo
+## Proceso de desarrollo
 
 Se siguió la metodología de cuatro pasos indicada en la guía del Taller 3:
 
@@ -38,7 +35,7 @@ La herramienta utilizada fue **draw.io / diagrams.net** y se respetó la convenc
 
 ---
 
-## 🧩 Análisis del modelo propuesto
+## Análisis del modelo propuesto
 
 ### Vista C1 — Contexto
 
@@ -79,7 +76,7 @@ La nómina llega como un archivo exportado desde Desarrollo Humano y se compara 
 
 ---
 
-## 🔁 Flujos principales identificados
+## Flujos principales identificados
 
 1. Desarrollo Humano publica/exporta la nómina del mes vencido.
 2. La Profesional de Experiencia y Servicio obtiene el archivo y lo contrasta manualmente con el directorio.
@@ -92,7 +89,7 @@ La nómina llega como un archivo exportado desde Desarrollo Humano y se compara 
 
 ---
 
-## ⚠️ Debilidades actuales
+## Debilidades actuales
 
 | ID | Debilidad | Impacto arquitectónico |
 |---|---|---|
@@ -106,14 +103,14 @@ La nómina llega como un archivo exportado desde Desarrollo Humano y se compara 
 
 ---
 
-## 📈 Diagramas finales entregados
+## Diagramas finales entregados
 
 - [`c1-contexto-final.drawio`](./c1-contexto-final.drawio)
 - [`c2-contenedores-final.drawio`](./c2-contenedores-final.drawio)
 
 ---
 
-## 📋 Tabla de actores, sistemas y componentes
+## Tabla de actores, sistemas y componentes
 
 | Nombre del elemento | Tipo | Descripción | Responsable |
 |---|---|---|---|
@@ -128,7 +125,7 @@ La nómina llega como un archivo exportado desde Desarrollo Humano y se compara 
 
 ---
 
-## 🔄 Diferencias con el caso base RedExpress
+## Diferencias con el caso base RedExpress
 
 RedExpress presenta una arquitectura de software distribuida con aplicaciones, servicios backend, balanceador de carga, base de datos e integraciones mediante protocolos técnicos explícitos. El caso de la Universidad es más simple desde el punto de vista tecnológico y más dependiente de herramientas ofimáticas y pasos manuales.
 
@@ -136,7 +133,7 @@ Por ello, no es correcto copiar la estructura de RedExpress ni inventar microser
 
 ---
 
-## 🧭 Vista ArchiMate equivalente
+## Vista ArchiMate equivalente
 
 La guía transversal del curso establece que el Taller 3 corresponde principalmente a la **capa de Aplicación** de ArchiMate. En esa equivalencia, los contenedores del C2 se pueden interpretar como **Application Components**, mientras que los datos gestionados por ellos pueden representarse como **Data Objects**.
 
@@ -156,7 +153,7 @@ Esta equivalencia no reemplaza los diagramas C4. C4 responde principalmente cóm
 
 ---
 
-## 🔍 Investigación complementaria
+## Investigación complementaria
 
 ### Tema investigado: uso del modelo C4 para documentar arquitecturas de software en contextos académicos y universitarios
 
@@ -166,12 +163,3 @@ En el contexto universitario existe evidencia académica del uso del modelo C4 p
 
 Este enfoque resulta pertinente para el cliente estudiado porque permite describir de manera honesta una arquitectura actual sencilla, sin obligar a que el sistema tenga microservicios, APIs o infraestructura propia. El valor del modelo está en hacer explícitos los límites, dependencias y responsabilidades reales.
 
----
-
-## 📚 Referencias
-
-Las fuentes completas se encuentran en [`referencias.md`](./referencias.md).
-
----
-
-Este documento hace parte de la entrega del Taller 3 del curso AREM (Arquitectura Empresarial) - Universidad de La Sabana.
