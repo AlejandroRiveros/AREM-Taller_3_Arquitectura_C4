@@ -1,16 +1,16 @@
-# 🗒️ Registro de Trabajo en Clase - Taller 3
+# Registro de Trabajo en Clase - Taller 3
 
-## 📆 Fecha de la sesión
+## Fecha de la sesión
 
-**Por completar con la fecha real de la sesión de clase.**
+29 de agosto 2026
 
-## 👥 Integrantes presentes
+## Integrantes presentes
 
 - Juan Pablo Luna Zuleta
 - Alejandro Riveros
 - Martín Ortega
 
-## 🧠 Actividades realizadas en clase
+## Actividades realizadas en clase
 
 Durante la sesión se trabajó el caso base **RedExpress** siguiendo la metodología de cuatro pasos indicada en la guía del Taller 3.
 
@@ -39,7 +39,7 @@ Durante la sesión se trabajó el caso base **RedExpress** siguiendo la metodolo
 5. Se etiquetaron los mecanismos de comunicación relevantes: **HTTPS/JSON, HTTPS, SQL, REST y Push/WebSocket**.
 6. Se validó el modelo con la checklist de autoevaluación de la guía.
 
-## 🎨 Decisiones de modelado
+## Decisiones de modelado
 
 - Se utilizó **draw.io / diagrams.net**.
 - Se respetó la notación visual indicada por la guía:
@@ -53,7 +53,7 @@ Durante la sesión se trabajó el caso base **RedExpress** siguiendo la metodolo
 - Todas las relaciones fueron etiquetadas.
 - No se inventaron tecnologías concretas no definidas por el caso; cuando no existe una tecnología específica, se indica el **tipo de contenedor** (aplicación móvil, aplicación web o servicio backend).
 
-## 🧩 Boceto inicial del modelo
+## Boceto inicial del modelo
 
 Los archivos digitales elaborados durante el ejercicio son:
 
@@ -62,7 +62,7 @@ Los archivos digitales elaborados durante el ejercicio son:
 
 Estos archivos constituyen el boceto/modelo de trabajo de RedExpress para la Parte 1 del taller.
 
-## ✅ Validación con checklist
+## Validación con checklist
 
 ### C1
 
@@ -80,7 +80,7 @@ Estos archivos constituyen el boceto/modelo de trabajo de RedExpress para la Par
 - [x] Las relaciones indican protocolo o mecanismo de comunicación cuando aplica.
 - [x] Se representan el balanceador de carga y la base de datos distribuida como infraestructura de soporte.
 
-## 🔁 Tareas definidas para complementar el taller
+## Tareas definidas para complementar el taller
 
 | Tarea asignada | Responsable | Estado |
 |---|---|---|
@@ -91,4 +91,3 @@ Estos archivos constituyen el boceto/modelo de trabajo de RedExpress para la Par
 
 ---
 
-Este documento resume el trabajo colaborativo realizado para la Parte 1 del Taller 3 del curso AREM - Universidad de La Sabana.
