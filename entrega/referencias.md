@@ -30,19 +30,10 @@ Este archivo contiene las fuentes consultadas para el componente técnico, la no
 6. García-Peñalvo, F. J., García-Holgado, A., Vázquez-Ingelmo, A. y Conde-González, M. Á. **Modelo C4**. Grupo GRIAL, Universidad de Salamanca, 2026. DOI: 10.5281/zenodo.18656129.  
    https://doi.org/10.5281/zenodo.18656129
 
-7. Equipo Adictos al Azúcar. **Ficha de Caracterización del Cliente**. Repositorio AREM-Equipo3-Universidad-de-la-Sabana, 2026.  
+7.  Repositorio AREM-Equipo3-Universidad-de-la-Sabana, 2026.  
    `../00-preliminary-vision/Ficha_Caracterizacion_Cliente.md`
 
-8. Equipo Adictos al Azúcar. **Architecture Vision**. Repositorio AREM-Equipo3-Universidad-de-la-Sabana, 2026.  
-   `../00-preliminary-vision/vision.md`
-
-9. Equipo Adictos al Azúcar. **Informe BPMN**. Repositorio AREM-Equipo3-Universidad-de-la-Sabana, 2026.  
-   `../01-bpmn/informe.md`
-
-10. Equipo Adictos al Azúcar. **Informe del Modelo de Información**. Repositorio AREM-Equipo3-Universidad-de-la-Sabana, 2026.  
-    `../02-modelo-informacion/informe.md`
-
-11. **Fuente asistida por IA:** ChatGPT, OpenAI, septiembre de 2026. Utilizado como apoyo para revisión de estructura, consistencia y redacción del taller.
+8. **Fuente asistida por IA:** ChatGPT, OpenAI, septiembre de 2026. Utilizado como apoyo para revisión de estructura, consistencia y redacción del taller.
 
 ---
 
